@@ -1,0 +1,16 @@
+.container {
+  margin-top: 10vw;
+}
+
+.pending {
+  color: gray;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
